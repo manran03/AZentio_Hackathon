@@ -1,0 +1,52 @@
+# Virtual env / local Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model weights / training artifacts (large)
+models/
+runs/
+wandb/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+*.gguf
+
+# Partial / temp outputs
+predictions_partial.json
+*.tmp
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets / env
+.env
+.env.*
+!.env.example
+*.pem
+credentials.json
+HF_TOKEN
+
+# Cursor / agent local
+.cursor/
+agent-transcripts/

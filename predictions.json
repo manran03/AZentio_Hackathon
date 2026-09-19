@@ -1,0 +1,5930 @@
+[
+  {
+    "transaction_id": "TXN_0000796",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000974",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: amount/avg ratio 7.3; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000795",
+    "is_fraud": false,
+    "confidence": 0.8475,
+    "justification": "Fraud signals: negative balance large."
+  },
+  {
+    "transaction_id": "TXN_0000695",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: amount/avg ratio 6.6; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000588",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000011",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000849",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: high value jewellery; luxury high amount; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000714",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000515",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000299",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000208",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000062",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000198",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000708",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000535",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: amount/avg ratio 24.0."
+  },
+  {
+    "transaction_id": "TXN_0000790",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 10.3."
+  },
+  {
+    "transaction_id": "TXN_0000360",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000625",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000705",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000225",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000440",
+    "is_fraud": true,
+    "confidence": 0.91,
+    "justification": "Fraud signals: foreign txn 11708km from home; merchant country PH."
+  },
+  {
+    "transaction_id": "TXN_0000305",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000394",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global; foreign txn 4716km from home; merchant country RU; amount/avg ratio 6.1."
+  },
+  {
+    "transaction_id": "TXN_0000328",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000609",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000910",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000806",
+    "is_fraud": true,
+    "confidence": 0.87,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000549",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000464",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000570",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000256",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000042",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 3816km from home."
+  },
+  {
+    "transaction_id": "TXN_0000541",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000419",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000427",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000197",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000181",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000266",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000776",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: foreign txn 7769km from home; merchant country PH."
+  },
+  {
+    "transaction_id": "TXN_0000013",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000957",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000143",
+    "is_fraud": true,
+    "confidence": 0.79,
+    "justification": "Fraud signals: foreign txn 8506km from home; KYC PENDING."
+  },
+  {
+    "transaction_id": "TXN_0000704",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000640",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000108",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 10251km from home."
+  },
+  {
+    "transaction_id": "TXN_0000087",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 5386km from home."
+  },
+  {
+    "transaction_id": "TXN_0000494",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000358",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000271",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000509",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000170",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000757",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000772",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000015",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000422",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000878",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000297",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: orphan account id."
+  },
+  {
+    "transaction_id": "TXN_0000039",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000574",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000311",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000200",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000748",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: amount/avg ratio 5.8."
+  },
+  {
+    "transaction_id": "TXN_0000528",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 11188km from home."
+  },
+  {
+    "transaction_id": "TXN_0000633",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000881",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000088",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 9.9."
+  },
+  {
+    "transaction_id": "TXN_0000323",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: negative balance large; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000613",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000459",
+    "is_fraud": true,
+    "confidence": 0.87,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global; foreign txn 2393km from home; amount/avg ratio 6.7."
+  },
+  {
+    "transaction_id": "TXN_0000282",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 102.0."
+  },
+  {
+    "transaction_id": "TXN_0000399",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000173",
+    "is_fraud": true,
+    "confidence": 0.89,
+    "justification": "Fraud signals: amount/avg ratio 129.3; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000452",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000468",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 151.8."
+  },
+  {
+    "transaction_id": "TXN_0000573",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000915",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000285",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000381",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 7.6."
+  },
+  {
+    "transaction_id": "TXN_0000120",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000109",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000006",
+    "is_fraud": true,
+    "confidence": 0.81,
+    "justification": "Fraud signals: foreign txn 7333km from home; merchant country RU; amount/avg ratio 397.0."
+  },
+  {
+    "transaction_id": "TXN_0000610",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000252",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000846",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000968",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: income outlier; high risk customer large."
+  },
+  {
+    "transaction_id": "TXN_0000845",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000937",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000532",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000136",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000103",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000858",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000985",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000871",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000895",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000353",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: foreign txn 8710km from home; 5 txns in 24h."
+  },
+  {
+    "transaction_id": "TXN_0000418",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: income outlier; high risk customer large."
+  },
+  {
+    "transaction_id": "TXN_0000837",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000007",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000713",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000759",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000839",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 9.5."
+  },
+  {
+    "transaction_id": "TXN_0000829",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000258",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000437",
+    "is_fraud": true,
+    "confidence": 0.91,
+    "justification": "Fraud signals: foreign txn 9802km from home; merchant country NG."
+  },
+  {
+    "transaction_id": "TXN_0000003",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000820",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000821",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 10309km from home."
+  },
+  {
+    "transaction_id": "TXN_0000269",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000455",
+    "is_fraud": true,
+    "confidence": 0.89,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000665",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000736",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000099",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: KYC REJECTED."
+  },
+  {
+    "transaction_id": "TXN_0000603",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000619",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000680",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000205",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000546",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 8820km from home."
+  },
+  {
+    "transaction_id": "TXN_0000390",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000114",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000204",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 57.4."
+  },
+  {
+    "transaction_id": "TXN_0000340",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000040",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 207.6."
+  },
+  {
+    "transaction_id": "TXN_0000685",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000186",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000901",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000462",
+    "is_fraud": true,
+    "confidence": 0.85,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; foreign txn 6767km from home."
+  },
+  {
+    "transaction_id": "TXN_0000752",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000755",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 2816km from home."
+  },
+  {
+    "transaction_id": "TXN_0000946",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000382",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000700",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000953",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000439",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000908",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000254",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000367",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000076",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000349",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000239",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000317",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000192",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000963",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000270",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: amount/avg ratio 21.7; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000243",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000872",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000602",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: income outlier; high risk customer large."
+  },
+  {
+    "transaction_id": "TXN_0000401",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000750",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000387",
+    "is_fraud": true,
+    "confidence": 0.79,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; foreign txn 2617km from home."
+  },
+  {
+    "transaction_id": "TXN_0000417",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: high value jewellery; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000543",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000655",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000979",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000931",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000842",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: orphan account id."
+  },
+  {
+    "transaction_id": "TXN_0000579",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000233",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000202",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000545",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000177",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000373",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000889",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000279",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000182",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000064",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000707",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000501",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000060",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000830",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: amount/avg ratio 23.2."
+  },
+  {
+    "transaction_id": "TXN_0000324",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: foreign txn 4645km from home."
+  },
+  {
+    "transaction_id": "TXN_0000310",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000069",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000670",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000723",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000304",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000246",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000010",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000122",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000576",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000947",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000222",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000161",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 9.0."
+  },
+  {
+    "transaction_id": "TXN_0000926",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000383",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000793",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 3856km from home."
+  },
+  {
+    "transaction_id": "TXN_0000559",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: amount/avg ratio 26.7."
+  },
+  {
+    "transaction_id": "TXN_0000786",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000560",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000934",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000137",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000051",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000453",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000375",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000138",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000971",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000167",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 28.4."
+  },
+  {
+    "transaction_id": "TXN_0000196",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000794",
+    "is_fraud": true,
+    "confidence": 0.87,
+    "justification": "Fraud signals: amount/avg ratio 9.1."
+  },
+  {
+    "transaction_id": "TXN_0000653",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000179",
+    "is_fraud": true,
+    "confidence": 0.87,
+    "justification": "Fraud signals: foreign txn 4972km from home; KYC PENDING; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000395",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000879",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: income outlier; high risk customer large."
+  },
+  {
+    "transaction_id": "TXN_0000791",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000111",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 24.5."
+  },
+  {
+    "transaction_id": "TXN_0000212",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: high value jewellery; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000980",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000669",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global."
+  },
+  {
+    "transaction_id": "TXN_0000047",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000346",
+    "is_fraud": true,
+    "confidence": 0.81,
+    "justification": "Fraud signals: amount/avg ratio 6.2."
+  },
+  {
+    "transaction_id": "TXN_0000958",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000738",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 18.8."
+  },
+  {
+    "transaction_id": "TXN_0000679",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 30.1."
+  },
+  {
+    "transaction_id": "TXN_0000081",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000697",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000296",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000127",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000650",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: amount/avg ratio 6.8; account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000028",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000500",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000678",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000217",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global; amount/avg ratio 197.2."
+  },
+  {
+    "transaction_id": "TXN_0000476",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000308",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000614",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 3408km from home."
+  },
+  {
+    "transaction_id": "TXN_0000641",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 6.8."
+  },
+  {
+    "transaction_id": "TXN_0000352",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 7291km from home."
+  },
+  {
+    "transaction_id": "TXN_0000366",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000447",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000877",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000499",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000438",
+    "is_fraud": true,
+    "confidence": 0.83,
+    "justification": "Fraud signals: foreign txn 8216km from home; merchant country RU."
+  },
+  {
+    "transaction_id": "TXN_0000565",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000164",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000443",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 10077km from home."
+  },
+  {
+    "transaction_id": "TXN_0000445",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000107",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000986",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000503",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000623",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: amount/avg ratio 19.3."
+  },
+  {
+    "transaction_id": "TXN_0000223",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000701",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000885",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000110",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: amount/avg ratio 12.5."
+  },
+  {
+    "transaction_id": "TXN_0000702",
+    "is_fraud": true,
+    "confidence": 0.83,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; amount/avg ratio 19.1."
+  },
+  {
+    "transaction_id": "TXN_0000398",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000769",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000800",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000288",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000978",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000534",
+    "is_fraud": true,
+    "confidence": 0.79,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000105",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 5.3."
+  },
+  {
+    "transaction_id": "TXN_0000754",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000505",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000804",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000054",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000320",
+    "is_fraud": true,
+    "confidence": 0.89,
+    "justification": "Fraud signals: foreign txn 10418km from home; merchant country PH."
+  },
+  {
+    "transaction_id": "TXN_0000539",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000365",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: amount/avg ratio 37.0."
+  },
+  {
+    "transaction_id": "TXN_0000919",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000566",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: account status DORMANT; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000130",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000569",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000913",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000396",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000930",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000293",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000618",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000248",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 6.4."
+  },
+  {
+    "transaction_id": "TXN_0000735",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000844",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000037",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000542",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000922",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000376",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global; amount/avg ratio 15.4."
+  },
+  {
+    "transaction_id": "TXN_0000463",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000893",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000831",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000469",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000073",
+    "is_fraud": true,
+    "confidence": 0.85,
+    "justification": "Fraud signals: amount/avg ratio 12.6; account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000153",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000744",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000815",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000938",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global."
+  },
+  {
+    "transaction_id": "TXN_0000595",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000814",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000792",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000540",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000038",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000944",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000050",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000761",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000917",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000567",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000224",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 5.5."
+  },
+  {
+    "transaction_id": "TXN_0000404",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: account status DORMANT; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000720",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 3471km from home."
+  },
+  {
+    "transaction_id": "TXN_0000408",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000693",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000876",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000909",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000818",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000870",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: high value jewellery; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000079",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 2781km from home."
+  },
+  {
+    "transaction_id": "TXN_0000896",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000071",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000550",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 11.2."
+  },
+  {
+    "transaction_id": "TXN_0000237",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000598",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 6366km from home."
+  },
+  {
+    "transaction_id": "TXN_0000659",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global; foreign txn 11703km from home; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000490",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global."
+  },
+  {
+    "transaction_id": "TXN_0000984",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000176",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: foreign txn 9184km from home; merchant country UA; amount/avg ratio 213.7; KYC PENDING."
+  },
+  {
+    "transaction_id": "TXN_0000861",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 4486km from home."
+  },
+  {
+    "transaction_id": "TXN_0000017",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 11.0."
+  },
+  {
+    "transaction_id": "TXN_0000817",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000261",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 78.0."
+  },
+  {
+    "transaction_id": "TXN_0000587",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000325",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000945",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000797",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 782.5."
+  },
+  {
+    "transaction_id": "TXN_0000502",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000020",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000405",
+    "is_fraud": true,
+    "confidence": 0.87,
+    "justification": "Fraud signals: foreign txn 8943km from home; account status DORMANT; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000851",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000498",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000782",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000287",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000492",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000869",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000448",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 1702km from home."
+  },
+  {
+    "transaction_id": "TXN_0000591",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; foreign txn 4877km from home; merchant country NG; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000886",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000318",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000810",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000657",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000932",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000313",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000481",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000621",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000866",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000639",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000226",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: negative balance large; income outlier; high risk customer large."
+  },
+  {
+    "transaction_id": "TXN_0000848",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000959",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000057",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000268",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000548",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000236",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: foreign txn 1843km from home; amount/avg ratio 27.7."
+  },
+  {
+    "transaction_id": "TXN_0000112",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000074",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000454",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000451",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000361",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 3406km from home."
+  },
+  {
+    "transaction_id": "TXN_0000329",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000728",
+    "is_fraud": true,
+    "confidence": 0.91,
+    "justification": "Fraud signals: amount/avg ratio 26.9; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000149",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000648",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000129",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000162",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000585",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000853",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000960",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: negative balance large; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000894",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000852",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: amount/avg ratio 24.6."
+  },
+  {
+    "transaction_id": "TXN_0000113",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 10.3."
+  },
+  {
+    "transaction_id": "TXN_0000819",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000660",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; foreign txn 5838km from home; merchant country PH; amount/avg ratio 5.2."
+  },
+  {
+    "transaction_id": "TXN_0000771",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000726",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000900",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000742",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000142",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000158",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: foreign txn 7822km from home; 5 txns in 24h."
+  },
+  {
+    "transaction_id": "TXN_0000969",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 2138km from home."
+  },
+  {
+    "transaction_id": "TXN_0000802",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000350",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 4958km from home."
+  },
+  {
+    "transaction_id": "TXN_0000128",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 10.9."
+  },
+  {
+    "transaction_id": "TXN_0000778",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: foreign txn 4376km from home."
+  },
+  {
+    "transaction_id": "TXN_0000949",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000259",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000977",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000219",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000740",
+    "is_fraud": true,
+    "confidence": 0.87,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; foreign txn 5643km from home; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000970",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000914",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 5753km from home."
+  },
+  {
+    "transaction_id": "TXN_0000273",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000551",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000374",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000506",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000826",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000255",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 6522km from home."
+  },
+  {
+    "transaction_id": "TXN_0000519",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: high value jewellery; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000627",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000478",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000169",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000309",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000416",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 23.1."
+  },
+  {
+    "transaction_id": "TXN_0000435",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000090",
+    "is_fraud": true,
+    "confidence": 0.85,
+    "justification": "Fraud signals: orphan account id; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000967",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: income outlier; high risk customer large."
+  },
+  {
+    "transaction_id": "TXN_0000094",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000098",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000758",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000520",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 7.2."
+  },
+  {
+    "transaction_id": "TXN_0000048",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000030",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000002",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: income outlier; high risk customer large."
+  },
+  {
+    "transaction_id": "TXN_0000295",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: amount/avg ratio 22.8."
+  },
+  {
+    "transaction_id": "TXN_0000458",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000662",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000642",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000092",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000477",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000651",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000864",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000096",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000925",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000523",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000788",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000507",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000600",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000115",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000063",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000249",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000781",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000172",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000420",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000779",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: foreign txn 6854km from home."
+  },
+  {
+    "transaction_id": "TXN_0000571",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000731",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000888",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000647",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000850",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 5.8."
+  },
+  {
+    "transaction_id": "TXN_0000189",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000965",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000855",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000696",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000811",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000032",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: amount/avg ratio 40.5."
+  },
+  {
+    "transaction_id": "TXN_0000577",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000976",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000805",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000121",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 158.1."
+  },
+  {
+    "transaction_id": "TXN_0000601",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 17.4."
+  },
+  {
+    "transaction_id": "TXN_0000123",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000253",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: foreign txn 7486km from home; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000166",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000891",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000348",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 8604km from home."
+  },
+  {
+    "transaction_id": "TXN_0000026",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: orphan account id."
+  },
+  {
+    "transaction_id": "TXN_0000274",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000933",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000132",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000675",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000912",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000715",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: negative balance large; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000954",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000421",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000465",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000599",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000393",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000385",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000753",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000022",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000043",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000414",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000294",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000628",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: amount/avg ratio 5.2."
+  },
+  {
+    "transaction_id": "TXN_0000220",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000554",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 83.6."
+  },
+  {
+    "transaction_id": "TXN_0000152",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000950",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000102",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000424",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: account status DORMANT; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000061",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000034",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000334",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000157",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000972",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 5.2."
+  },
+  {
+    "transaction_id": "TXN_0000272",
+    "is_fraud": true,
+    "confidence": 0.81,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000281",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 2242km from home."
+  },
+  {
+    "transaction_id": "TXN_0000355",
+    "is_fraud": false,
+    "confidence": 0.8475,
+    "justification": "Fraud signals: 7 txns in 24h."
+  },
+  {
+    "transaction_id": "TXN_0000730",
+    "is_fraud": true,
+    "confidence": 0.81,
+    "justification": "Fraud signals: foreign txn 7083km from home; account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000868",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; foreign txn 5327km from home; KYC REJECTED; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000832",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000260",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status FROZEN."
+  },
+  {
+    "transaction_id": "TXN_0000594",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: amount/avg ratio 27.4."
+  },
+  {
+    "transaction_id": "TXN_0000586",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000083",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000798",
+    "is_fraud": false,
+    "confidence": 0.8475,
+    "justification": "Fraud signals: negative balance large."
+  },
+  {
+    "transaction_id": "TXN_0000774",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000880",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000824",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000277",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000211",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000813",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000298",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: negative balance large; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000065",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000512",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000430",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000643",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000117",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000195",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000339",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000941",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: amount/avg ratio 25.6."
+  },
+  {
+    "transaction_id": "TXN_0000616",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000035",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000284",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000911",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000104",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000473",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000727",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000773",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000044",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000833",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000184",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000508",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000716",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000785",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000799",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000029",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000784",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000629",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000289",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000033",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000027",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000425",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: account status DORMANT; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000538",
+    "is_fraud": true,
+    "confidence": 0.85,
+    "justification": "Fraud signals: amount/avg ratio 5.4; KYC PENDING."
+  },
+  {
+    "transaction_id": "TXN_0000514",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000637",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000247",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000840",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000973",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000525",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: amount/avg ratio 67.2."
+  },
+  {
+    "transaction_id": "TXN_0000231",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000275",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000558",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000159",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000124",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000583",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000410",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000086",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000645",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000024",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000783",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: high value jewellery; luxury high amount; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000228",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: foreign txn 2088km from home; merchant country RU; amount/avg ratio 6.7; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000409",
+    "is_fraud": true,
+    "confidence": 0.87,
+    "justification": "Fraud signals: amount/avg ratio 6.1."
+  },
+  {
+    "transaction_id": "TXN_0000135",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000077",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000336",
+    "is_fraud": true,
+    "confidence": 0.81,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global; amount/avg ratio 6.5."
+  },
+  {
+    "transaction_id": "TXN_0000097",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000511",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000262",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000635",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000139",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000630",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000504",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000533",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000777",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: foreign txn 11940km from home; merchant country UA."
+  },
+  {
+    "transaction_id": "TXN_0000483",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000331",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000607",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000300",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000763",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 34.2."
+  },
+  {
+    "transaction_id": "TXN_0000052",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000544",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000386",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; foreign txn 9590km from home; merchant country NG; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000257",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 71.1."
+  },
+  {
+    "transaction_id": "TXN_0000413",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000423",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000646",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000899",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000486",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000611",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000203",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000101",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000356",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 18.0."
+  },
+  {
+    "transaction_id": "TXN_0000843",
+    "is_fraud": true,
+    "confidence": 0.81,
+    "justification": "Fraud signals: amount/avg ratio 15.7."
+  },
+  {
+    "transaction_id": "TXN_0000555",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000091",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000622",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000314",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000474",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000681",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000045",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000193",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000756",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000442",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000433",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000725",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000023",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000689",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: luxury high amount; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000530",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000688",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000638",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000553",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000118",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000513",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000698",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000906",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000518",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000031",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000055",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 13.7."
+  },
+  {
+    "transaction_id": "TXN_0000746",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000654",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000471",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000935",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status FROZEN."
+  },
+  {
+    "transaction_id": "TXN_0000199",
+    "is_fraud": true,
+    "confidence": 0.73,
+    "justification": "Fraud signals: amount/avg ratio 7.6; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000144",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000456",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000721",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000450",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000400",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 7.2."
+  },
+  {
+    "transaction_id": "TXN_0000312",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000521",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000867",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: amount/avg ratio 23.6."
+  },
+  {
+    "transaction_id": "TXN_0000671",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000604",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000190",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000441",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000578",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000134",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000987",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000857",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000835",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000694",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: amount/avg ratio 12.3; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000834",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000709",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000916",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: amount/avg ratio 10.4; KYC PENDING."
+  },
+  {
+    "transaction_id": "TXN_0000302",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000389",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: KYC PENDING."
+  },
+  {
+    "transaction_id": "TXN_0000392",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000836",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: amount/avg ratio 9.4."
+  },
+  {
+    "transaction_id": "TXN_0000140",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000434",
+    "is_fraud": true,
+    "confidence": 0.85,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000227",
+    "is_fraud": true,
+    "confidence": 0.85,
+    "justification": "Fraud signals: foreign txn 5948km from home; merchant country NG; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000686",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: amount/avg ratio 425.9; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000822",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000347",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000632",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000983",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000859",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000446",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000580",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000278",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000768",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000536",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 14.9."
+  },
+  {
+    "transaction_id": "TXN_0000711",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000178",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000902",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000337",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: amount/avg ratio 11.9; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000156",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 11760km from home."
+  },
+  {
+    "transaction_id": "TXN_0000487",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000265",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000687",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: foreign txn 7207km from home."
+  },
+  {
+    "transaction_id": "TXN_0000692",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000078",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000046",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000658",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000475",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000041",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000898",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000210",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000732",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000036",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000407",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000244",
+    "is_fraud": true,
+    "confidence": 0.73,
+    "justification": "Fraud signals: amount/avg ratio 7.7; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000406",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000245",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: foreign txn 5540km from home; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000703",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000904",
+    "is_fraud": true,
+    "confidence": 0.73,
+    "justification": "Fraud signals: foreign txn 10433km from home; merchant country RU."
+  },
+  {
+    "transaction_id": "TXN_0000125",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status FROZEN."
+  },
+  {
+    "transaction_id": "TXN_0000377",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 11077km from home."
+  },
+  {
+    "transaction_id": "TXN_0000918",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000493",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000592",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000080",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000951",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 11.2."
+  },
+  {
+    "transaction_id": "TXN_0000326",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000682",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000552",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000391",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000739",
+    "is_fraud": true,
+    "confidence": 0.85,
+    "justification": "Fraud signals: foreign txn 6262km from home; merchant country PA; amount/avg ratio 5.0."
+  },
+  {
+    "transaction_id": "TXN_0000085",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000291",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000924",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000146",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: foreign txn 4424km from home."
+  },
+  {
+    "transaction_id": "TXN_0000315",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000338",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000666",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000191",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000649",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000789",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000216",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000333",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: high value jewellery; luxury high amount; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000890",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000807",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000838",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000009",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: income outlier; high risk customer large."
+  },
+  {
+    "transaction_id": "TXN_0000673",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; amount/avg ratio 62.1."
+  },
+  {
+    "transaction_id": "TXN_0000568",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 8.4."
+  },
+  {
+    "transaction_id": "TXN_0000943",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000250",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000631",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000593",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000301",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000378",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000472",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 7.5."
+  },
+  {
+    "transaction_id": "TXN_0000561",
+    "is_fraud": true,
+    "confidence": 0.79,
+    "justification": "Fraud signals: amount/avg ratio 7.3; account status FROZEN."
+  },
+  {
+    "transaction_id": "TXN_0000691",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000359",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000854",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000100",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000942",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000491",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000171",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 49.5."
+  },
+  {
+    "transaction_id": "TXN_0000151",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000812",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000874",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd."
+  },
+  {
+    "transaction_id": "TXN_0000516",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000364",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000183",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000461",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; foreign txn 10446km from home; amount/avg ratio 5.0; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000803",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000961",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000082",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000749",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000187",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: high value jewellery; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000341",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000229",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 5.5."
+  },
+  {
+    "transaction_id": "TXN_0000928",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000841",
+    "is_fraud": true,
+    "confidence": 0.87,
+    "justification": "Fraud signals: amount/avg ratio 5.8."
+  },
+  {
+    "transaction_id": "TXN_0000379",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000384",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000332",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000449",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000025",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000956",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000429",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000497",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000106",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000201",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000444",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000556",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000966",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000762",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: account status DORMANT; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000479",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000412",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000626",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000612",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000369",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000562",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: account status DORMANT; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000856",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000882",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000531",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: amount/avg ratio 182.9."
+  },
+  {
+    "transaction_id": "TXN_0000403",
+    "is_fraud": true,
+    "confidence": 0.81,
+    "justification": "Fraud signals: account status DORMANT; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000264",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: amount/avg ratio 38.9; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000316",
+    "is_fraud": true,
+    "confidence": 0.85,
+    "justification": "Fraud signals: amount/avg ratio 20.6; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000563",
+    "is_fraud": true,
+    "confidence": 0.85,
+    "justification": "Fraud signals: amount/avg ratio 13.5; account status DORMANT; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000207",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000575",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000155",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 2792km from home."
+  },
+  {
+    "transaction_id": "TXN_0000174",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000606",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000527",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000363",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000154",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 7066km from home."
+  },
+  {
+    "transaction_id": "TXN_0000624",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: PEP with large/foreign activity."
+  },
+  {
+    "transaction_id": "TXN_0000674",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status FROZEN."
+  },
+  {
+    "transaction_id": "TXN_0000008",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000049",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000292",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000141",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global."
+  },
+  {
+    "transaction_id": "TXN_0000432",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: foreign txn 8062km from home; account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000652",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000564",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status FROZEN."
+  },
+  {
+    "transaction_id": "TXN_0000905",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000495",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000780",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 6645km from home."
+  },
+  {
+    "transaction_id": "TXN_0000589",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000371",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 9.8."
+  },
+  {
+    "transaction_id": "TXN_0000058",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000072",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000948",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000488",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000075",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000677",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000496",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000734",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000605",
+    "is_fraud": true,
+    "confidence": 0.73,
+    "justification": "Fraud signals: foreign txn 4177km from home; amount/avg ratio 39.7."
+  },
+  {
+    "transaction_id": "TXN_0000232",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000327",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000240",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: negative balance large; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000873",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000411",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000241",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000712",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000215",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 9457km from home."
+  },
+  {
+    "transaction_id": "TXN_0000825",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000766",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000148",
+    "is_fraud": true,
+    "confidence": 0.93,
+    "justification": "Fraud signals: foreign txn 9654km from home; KYC PENDING."
+  },
+  {
+    "transaction_id": "TXN_0000267",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000676",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 6.5."
+  },
+  {
+    "transaction_id": "TXN_0000319",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000059",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000119",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000368",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: amount/avg ratio 47.6; orphan account id."
+  },
+  {
+    "transaction_id": "TXN_0000862",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000084",
+    "is_fraud": false,
+    "confidence": 0.76,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000388",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: foreign txn 3621km from home."
+  },
+  {
+    "transaction_id": "TXN_0000936",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status FROZEN."
+  },
+  {
+    "transaction_id": "TXN_0000436",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000760",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000656",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000160",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000089",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000747",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000808",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000710",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global."
+  },
+  {
+    "transaction_id": "TXN_0000596",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000145",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: KYC PENDING."
+  },
+  {
+    "transaction_id": "TXN_0000581",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000415",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 6.9."
+  },
+  {
+    "transaction_id": "TXN_0000402",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global; foreign txn 2638km from home; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000344",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000699",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000737",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000126",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 5907km from home."
+  },
+  {
+    "transaction_id": "TXN_0000484",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000218",
+    "is_fraud": true,
+    "confidence": 0.79,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; KYC PENDING."
+  },
+  {
+    "transaction_id": "TXN_0000457",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000345",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000775",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: KYC REJECTED."
+  },
+  {
+    "transaction_id": "TXN_0000485",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000306",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000230",
+    "is_fraud": true,
+    "confidence": 0.77,
+    "justification": "Fraud signals: amount/avg ratio 12.3; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000764",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000875",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000175",
+    "is_fraud": false,
+    "confidence": 0.7775,
+    "justification": "Fraud signals: foreign txn 5371km from home."
+  },
+  {
+    "transaction_id": "TXN_0000147",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: income outlier; high risk customer large."
+  },
+  {
+    "transaction_id": "TXN_0000397",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global; foreign txn 7909km from home; merchant country RU; amount/avg ratio 156.5."
+  },
+  {
+    "transaction_id": "TXN_0000330",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000214",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000582",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000150",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000489",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000014",
+    "is_fraud": true,
+    "confidence": 0.85,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000920",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000590",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000940",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: income outlier; high risk customer large."
+  },
+  {
+    "transaction_id": "TXN_0000322",
+    "is_fraud": true,
+    "confidence": 0.79,
+    "justification": "Fraud signals: high value jewellery; luxury high amount; negative balance large."
+  },
+  {
+    "transaction_id": "TXN_0000053",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000883",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000751",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 8685km from home."
+  },
+  {
+    "transaction_id": "TXN_0000860",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000001",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000706",
+    "is_fraud": true,
+    "confidence": 0.73,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; amount/avg ratio 7.2."
+  },
+  {
+    "transaction_id": "TXN_0000482",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000988",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000351",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000884",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 16.2."
+  },
+  {
+    "transaction_id": "TXN_0000636",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000066",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000018",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 8.7."
+  },
+  {
+    "transaction_id": "TXN_0000608",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000276",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000718",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000584",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000428",
+    "is_fraud": true,
+    "confidence": 0.87,
+    "justification": "Fraud signals: amount/avg ratio 115.2; account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000733",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000234",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000644",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000787",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000235",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000897",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000426",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000743",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000019",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 16.1."
+  },
+  {
+    "transaction_id": "TXN_0000342",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 3091km from home."
+  },
+  {
+    "transaction_id": "TXN_0000907",
+    "is_fraud": true,
+    "confidence": 0.87,
+    "justification": "Fraud signals: amount/avg ratio 8.2."
+  },
+  {
+    "transaction_id": "TXN_0000263",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 6.0."
+  },
+  {
+    "transaction_id": "TXN_0000056",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000163",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000357",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000729",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000952",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000690",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000093",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000823",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000684",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000955",
+    "is_fraud": true,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 8.7; KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000522",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000343",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000981",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: negative balance large; income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000939",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000923",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000290",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000466",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000667",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000470",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000238",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000741",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000524",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd."
+  },
+  {
+    "transaction_id": "TXN_0000927",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000847",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000303",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000068",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: amount/avg ratio 302.6."
+  },
+  {
+    "transaction_id": "TXN_0000745",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000683",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000180",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000005",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000529",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000962",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000185",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000517",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000116",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000133",
+    "is_fraud": true,
+    "confidence": 0.85,
+    "justification": "Fraud signals: amount/avg ratio 7.0."
+  },
+  {
+    "transaction_id": "TXN_0000816",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000467",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000828",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000719",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000634",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000620",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000286",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 5.1."
+  },
+  {
+    "transaction_id": "TXN_0000557",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; foreign txn 4604km from home; merchant country PH; amount/avg ratio 93.3."
+  },
+  {
+    "transaction_id": "TXN_0000188",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000597",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000903",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000221",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000572",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: foreign txn 8678km from home."
+  },
+  {
+    "transaction_id": "TXN_0000722",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000887",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000021",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000194",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000892",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000770",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000617",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000067",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000251",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000209",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000307",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000801",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000765",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000767",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: orphan account id."
+  },
+  {
+    "transaction_id": "TXN_0000213",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000672",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000280",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000206",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: amount/avg ratio 14.0."
+  },
+  {
+    "transaction_id": "TXN_0000663",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000526",
+    "is_fraud": true,
+    "confidence": 0.73,
+    "justification": "Fraud signals: wire-like merchant QuickCash Wire Ltd; orphan account id."
+  },
+  {
+    "transaction_id": "TXN_0000283",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000335",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000717",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000431",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000380",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000004",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000537",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000012",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000929",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000964",
+    "is_fraud": false,
+    "confidence": 0.7425,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global."
+  },
+  {
+    "transaction_id": "TXN_0000827",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000480",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000168",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000615",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000016",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000131",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000165",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000321",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000664",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000975",
+    "is_fraud": false,
+    "confidence": 0.865,
+    "justification": "Fraud signals: income outlier."
+  },
+  {
+    "transaction_id": "TXN_0000661",
+    "is_fraud": false,
+    "confidence": 0.795,
+    "justification": "Fraud signals: account status DORMANT."
+  },
+  {
+    "transaction_id": "TXN_0000070",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000668",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000460",
+    "is_fraud": true,
+    "confidence": 0.95,
+    "justification": "Fraud signals: crypto activity at CryptoXchange Global; foreign txn 9120km from home; merchant country PH."
+  },
+  {
+    "transaction_id": "TXN_0000242",
+    "is_fraud": false,
+    "confidence": 0.8125,
+    "justification": "Fraud signals: KYC EXPIRED."
+  },
+  {
+    "transaction_id": "TXN_0000095",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: orphan account id."
+  },
+  {
+    "transaction_id": "TXN_0000863",
+    "is_fraud": true,
+    "confidence": 0.75,
+    "justification": "Fraud signals: amount/avg ratio 10.6; new device night large amount."
+  },
+  {
+    "transaction_id": "TXN_0000354",
+    "is_fraud": false,
+    "confidence": 0.8475,
+    "justification": "Fraud signals: 6 txns in 24h."
+  },
+  {
+    "transaction_id": "TXN_0000724",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000921",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000370",
+    "is_fraud": false,
+    "confidence": 0.83,
+    "justification": "Fraud signals: amount/avg ratio 5.3."
+  },
+  {
+    "transaction_id": "TXN_0000362",
+    "is_fraud": true,
+    "confidence": 0.87,
+    "justification": "Fraud signals: foreign txn 8717km from home; amount/avg ratio 15.5."
+  },
+  {
+    "transaction_id": "TXN_0000865",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000809",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000547",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000510",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000372",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  },
+  {
+    "transaction_id": "TXN_0000982",
+    "is_fraud": false,
+    "confidence": 0.9,
+    "justification": "No elevated risk signals in transaction, account, or customer context."
+  }
+]
