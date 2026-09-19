@@ -1,0 +1,24 @@
+# Core data / EDA
+pandas==3.0.6
+numpy==2.5.2
+matplotlib==3.11.2
+
+# SLM / LoRA
+transformers==5.17.0
+peft==0.21.0
+accelerate==1.15.0
+datasets==5.0.1
+trl==1.13.0
+huggingface_hub==1.32.0
+tqdm==4.70.1
+
+# Notebook
+ipykernel==7.3.0
+jupyter==1.1.1
+nbconvert==7.17.1
+ipywidgets==8.1.9
+
+# PyTorch (CUDA 12.8 / Blackwell). Install with:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
